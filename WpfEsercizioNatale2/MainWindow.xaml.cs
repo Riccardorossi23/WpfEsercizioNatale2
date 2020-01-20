@@ -60,7 +60,6 @@ namespace WpfEsercizioNatale2
             w.WriteLine(risultato);
             w.Flush();
             w.Close();
-
         }
     }
 }
